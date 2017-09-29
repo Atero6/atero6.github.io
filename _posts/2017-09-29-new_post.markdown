@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "New Post"
+date:   2017-09-29 18:35:25 +0200
+categories: jekyll update
+---
+New Post lets see how it looks ;D
